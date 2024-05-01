@@ -1,0 +1,13 @@
+1.	Entrar no GitHub
+2.	Ir em repositório e clicar em NEW
+3.	Dar um nome para o repositório e criar o repositório
+4.	Ir para o terminal do VSCode
+5.	E rodar cada um dos passos da figura
+    a.	echo “# ExerciciosPython” >> README.md
+    b.	git init 
+    c.	No lugar do git add README.md digite: git add .
+    d.	Para verificar se foi adicionado os arquivos: git status
+    e.	Proximo passo: git commit -m “first commit”
+    f.	Criar a Branch Main: git branch -M main
+    g.	Adicionar o repositório local ao repositório remoto: git remote add origin git@github.com:alessandroguedes/ExerciciosPython.git
+    h.	Para terminar: git push -u origin main
