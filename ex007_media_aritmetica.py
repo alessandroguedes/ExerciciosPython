@@ -1,5 +1,5 @@
-n1 = int(input('Digite um numero: '))
-n2 = int(input('Digite outro númmero: '))
+n1 = float(input('Digite um numero: '))
+n2 = gloat(input('Digite outro númmero: '))
 
 media = (n1 + n2)/2
 
