@@ -11,3 +11,7 @@
     f.	Criar a Branch Main: git branch -M main
     g.	Adicionar o repositório local ao repositório remoto: git remote add origin git@github.com:alessandroguedes/ExerciciosPython.git
     h.	Para terminar: git push -u origin main
+
+Biblioteca Python
+
+    Site: python.org
